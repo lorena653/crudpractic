@@ -1,0 +1,48 @@
+*{
+ font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(24, 22, 22);
+    color: aquamarine;
+}
+h1{
+    font-size: 35px;
+    color: aquamarine;
+}
+.div{
+    width: 20%;
+    height: auto;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+.form input{
+   width: 85%;
+   background: transparent;
+   padding: 10px;
+   border-radius: 5px;
+   margin-bottom: 16px;
+   border: 1px solid aquamarine;
+   font-size: 18px;
+   color: aquamarine;
+}
+.opciones{
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: aquamarine;
+}
+.tabla{
+    margin: 150px;
+    width: 40%;
+    text-align: left;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 15px;
+}
+thead{
+    border-bottom: solid 3px aquamarine;
+}
